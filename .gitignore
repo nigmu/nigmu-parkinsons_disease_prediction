@@ -1,5 +1,8 @@
 Dataset
 Training and Testing/best_model.pth
+*.pth
+*.png
+*.npy
 
 
 # Byte-compiled / optimized / DLL files
