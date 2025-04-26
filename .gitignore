@@ -1,8 +1,12 @@
 Dataset
 Training and Testing/best_model.pth
-*.pth
+# *.pth
 *.png
 *.npy
+*.txt
+op
+my_audio_chunks
+
 
 
 # Byte-compiled / optimized / DLL files
